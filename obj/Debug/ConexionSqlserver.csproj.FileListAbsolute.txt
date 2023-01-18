@@ -1,0 +1,13 @@
+C:\Users\gerso\source\repos\ConexionSqlserver\ConexionSqlserver\bin\Debug\ConexionSqlserver.exe.config
+C:\Users\gerso\source\repos\ConexionSqlserver\ConexionSqlserver\bin\Debug\ConexionSqlserver.exe
+C:\Users\gerso\source\repos\ConexionSqlserver\ConexionSqlserver\bin\Debug\ConexionSqlserver.pdb
+C:\Users\gerso\source\repos\ConexionSqlserver\ConexionSqlserver\obj\Debug\ConexionSqlserver.csprojAssemblyReference.cache
+C:\Users\gerso\source\repos\ConexionSqlserver\ConexionSqlserver\obj\Debug\ConexionSqlserver.Form1.resources
+C:\Users\gerso\source\repos\ConexionSqlserver\ConexionSqlserver\obj\Debug\ConexionSqlserver.Properties.Resources.resources
+C:\Users\gerso\source\repos\ConexionSqlserver\ConexionSqlserver\obj\Debug\ConexionSqlserver.csproj.GenerateResource.cache
+C:\Users\gerso\source\repos\ConexionSqlserver\ConexionSqlserver\obj\Debug\ConexionSqlserver.csproj.CoreCompileInputs.cache
+C:\Users\gerso\source\repos\ConexionSqlserver\ConexionSqlserver\obj\Debug\ConexionSqlserver.exe
+C:\Users\gerso\source\repos\ConexionSqlserver\ConexionSqlserver\obj\Debug\ConexionSqlserver.pdb
+C:\Users\gerso\source\repos\ConexionSqlserver\ConexionSqlserver\bin\Debug\System.Data.SqlClient.dll
+C:\Users\gerso\source\repos\ConexionSqlserver\ConexionSqlserver\bin\Debug\System.Data.SqlClient.xml
+C:\Users\gerso\source\repos\ConexionSqlserver\ConexionSqlserver\obj\Debug\ConexionSqlserver.csproj.CopyComplete
